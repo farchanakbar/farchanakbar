@@ -5,7 +5,7 @@
   I have an interest in working in the field of data science and machine learning, here I present a model creation project for data science and machine learning
 </p>
 <p align="center">
-  I hope you like it! Keep learning and stay awesome😎
+  I hope you like it! Keep learning and stay cool😎
 </p>
 <!-- icon gif -->
 <p align = "center">
