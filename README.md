@@ -17,7 +17,7 @@
 
 - Saya sekarang fokus pada **Data Environment Field (DS, DA, dan ML)**
 
-- 📫 Hubungi saya di **farchanakbar80@gmail.com**
+- 📫 email : **farchanakbar80@gmail.com**
 
 <h3 align="left">Reach Me :</h3>
 <p align="left">
@@ -37,4 +37,6 @@
   <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/scikit.svg" width = "40" height = "40"/> </a>
   <!--  Tensorflow  -->
   <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/tensorflow.svg" width = "40" height = "40"/> </a>
+  <!--  Pytorch  -->
+  <a href="" target="_blank"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/c919601f7ee4d1b5a7ed75a4250601c32395c45c/src/images/icons/AIML/pytorch.svg" width = "40" height = "40"/> </a>
 </p>
